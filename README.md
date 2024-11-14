@@ -1,7 +1,7 @@
 <H3>NAME: ADHITHYA PERUMAL D</H3>
 <H3>REG.NO:212222230007</H3>
 <H3>EX. NO.6</H3>
-<H3>DATE:07.11.2024</H3>
+<H3>DATE:</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 
